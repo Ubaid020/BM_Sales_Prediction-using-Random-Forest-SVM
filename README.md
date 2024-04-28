@@ -1,4 +1,4 @@
-#BigMart Sales Prediction using Machine Learning
+#BigMart Sales Prediction using Machine Learning:
 
 I'm excited to share my project on predicting sales for BigMart, a leading retail chain, using machine learning! This project explores various techniques to build a model that can assist BigMart in forecasting future sales and making informed business decisions.
 
